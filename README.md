@@ -5,7 +5,10 @@ this is forked from: @chebhou https://github.com/chebhou/Add-Empty-Parent
 The script creates an empty object and sets it as a parent for the selected objects. After installing you can trigger it with pressing <kbd>P</kbd>, you can change this shortcut in the user preferences later.
 
 ***How to install :***
- - goto Blender -> Edit -> preferences -> addons, select downloaded zip and click install
+ - goto Blender -> Edit -> preferences -> addons
+ - on the top click "Install" browse for the downloaded file and click install
+ - you should find it now in the Addon-list as 
+   "Object: Add an empty as parent"
 
 ***How to use :***
 
