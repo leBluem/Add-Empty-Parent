@@ -1,8 +1,9 @@
 ## Add Empty Parent
-blender addon to create an empty as a parent for all selected objects
+blender addon to create one or more empties as a parent for all selected objects
 
+this is forked from: @chebhou https://github.com/chebhou/Add-Empty-Parent
 
-the script is in an addon for blender  which creates an empty object and set it as a parent for the selected objects , install it and you can trigger it with pressing <kbd>P</kbd>, you can change this shortcut in the user preferences later .
+the script is in an addon for blender  which creates an empty object and set it as a parent for the selected objects , install it and you can trigger it with pressing <kbd>P</kbd>, you can change this shortcut in the user preferences later.
 
 ***How to use :***
 
@@ -13,5 +14,6 @@ the script is in an addon for blender  which creates an empty object and set it 
  - check ***parent inverse*** if you want to set the inverse
  - you can set the name of the empty in ***name*** field
 
-![enter image description here][1]
-[1]: http://i.stack.imgur.com/m6jPB.png
+![example][1]
+[1]: https://i.imgur.com/Q0b5HiX.jpg
+
