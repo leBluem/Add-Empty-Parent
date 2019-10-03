@@ -13,11 +13,16 @@ The script is in an addon for blender which creates an empty object and set it a
 
  - select the objects
  - press <kbd>P</kbd>
+ - property panel "Add empty as parent" should appear
  - select the Empty ***type*** ( axis, arrow, cube ...)
  - select the empty ***position*** ( world center, median point, at cursor, active object )
+ - select whether to add one empty per object or only one with ***one parent per object***
+ - set option to first set objects-center ***set origin to object first***
  - check ***parent inverse*** if you want to set the inverse
+ - you can set the scaling of the empty in ***scale*** field
  - you can set the name of the empty in ***name*** field
+ - to also use given names of objects you can set ***use childname***
 
-in this example all planes were selected before
+***example***
+note: all three planes were selected before, "P" on keyboard shows this
 ![Imgur Image](https://i.imgur.com/Q0b5HiX.jpg)
-
