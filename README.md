@@ -4,7 +4,7 @@ The script creates an empty object and sets it as a parent for the selected obje
 
 ***How to install :***
  - goto Blender -> Edit -> preferences -> addons
- - on the top click "Install" browse for the downloaded file and click install
+ - on the top click "Install", then browse for the downloaded zip file and click install
  - you should find it now in the Addon-list as 
    "Object: Add an empty as parent"
 
