@@ -14,5 +14,6 @@ the script is in an addon for blender  which creates an empty object and set it 
  - check ***parent inverse*** if you want to set the inverse
  - you can set the name of the empty in ***name*** field
 
-example ![Imgur Image](https://i.imgur.com/Q0b5HiX.jpg)
+in this example all planes were selected before
+![Imgur Image](https://i.imgur.com/Q0b5HiX.jpg)
 
