@@ -19,7 +19,7 @@ The script creates an empty object and sets it as a parent for the selected obje
  - check ***parent inverse*** if you want to set the inverse
  - you can set the scaling of the empty in ***scale*** field
  - you can set the name of the empty in ***name*** field
- - to also use given names of objects you can set ***use childname***
+ - to use names of selected objects as base set ***use childname***
 
 ***example***
 note: all three planes were selected before, "P" on keyboard shows this
