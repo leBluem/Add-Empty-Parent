@@ -22,5 +22,6 @@ The script creates an empty object and sets it as a parent for the selected obje
  - to use names of selected objects as base set ***use childname***
 
 ***example***
+
 note: all three planes were selected before, "P" on keyboard shows this
 ![Imgur Image](https://i.imgur.com/Q0b5HiX.jpg)
