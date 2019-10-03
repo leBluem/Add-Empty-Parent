@@ -14,5 +14,5 @@ the script is in an addon for blender  which creates an empty object and set it 
  - check ***parent inverse*** if you want to set the inverse
  - you can set the name of the empty in ***name*** field
 
-example https://i.imgur.com/Q0b5HiX.jpg
+example !(image)[https://i.imgur.com/Q0b5HiX.jpg]
 
