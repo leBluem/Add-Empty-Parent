@@ -1,5 +1,3 @@
-this is forked from: @chebhou https://github.com/chebhou/Add-Empty-Parent
-
 ## Blender Addon to Add empty(ies) as Parent
 
 The script creates an empty object and sets it as a parent for the selected objects. After installing you can trigger it with pressing <kbd>P</kbd>, you can change this shortcut in the user preferences later.
@@ -23,6 +21,8 @@ The script creates an empty object and sets it as a parent for the selected obje
  - you can set the scaling of the empty in ***scale*** field
  - you can set the name of the empty in ***name*** field
  - to use names of selected objects as base set ***use childname***
+
+thanks @chebhou for the base Addon https://github.com/chebhou/Add-Empty-Parent
 
 ***example***
 
