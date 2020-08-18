@@ -4,7 +4,8 @@ bl_info = {
     "version": (1, 1),
     "blender": (2, 80, 0),
     "description": "Adds a parent for the selected objects",
-    "category": "Object"
+    "category": "Object",
+    "url": "https://github.com/leBluem/Add-Empty-Parent/"
 }
 
 import bpy
